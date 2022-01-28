@@ -20,6 +20,6 @@ const (
 	host     = "localhost"
 	port     = 8080
 	user     = "postgres"
-	password = "Decibels52*"
+	password = "password"
 	dbname   = "mineintern"
 )
